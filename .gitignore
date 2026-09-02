@@ -1,0 +1,52 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+.vite/
+frontend/.vite/
+
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.venv/
+env/
+ENV/
+
+# Databases & SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime Uploads & Generated Outputs
+data/uploads/*
+!data/uploads/.gitkeep
+data/cleaned/*
+!data/cleaned/.gitkeep
+data/db/*
+!data/db/.gitkeep
+reports/*
+!reports/.gitkeep
+tmp/
+temp/
+scratch/
+
+# IDE & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,13 @@
+product_id,product,category,city,price,age,sales,sale_date
+101,Laptop,Electronics,Mumbai,$1200,25.0,6000.0,2025-01-15
+102,Smartphone,Electronics,mumbai,$800,,8000.0,2025/01/16
+103,Headphones,,MUMBAI,$150,34.0,3750.0,17-01-2025
+104,Monitor,Electronics,Delhi,$300,,2400.0,2025-01-18
+105,Keyboard,Accessories,delhi,$50,29.0,1500.0,2025-01-19
+106,Mouse,Accessories,Bengaluru,$25,45.0,1250.0,2025-01-20
+107,Smartwatch,Wearables,bengaluru,$200,,3000.0,invalid_date
+108,Tablet,Electronics,Mumbai,$450,52.0,5400.0,2025-01-22
+109,Printer,Office,pune,$250,31.0,1500.0,2025-01-23
+110,Speaker,,Pune,$100,28.0,99999.0,2025-01-24
+101,Laptop,Electronics,Mumbai,$1200,25.0,6000.0,2025-01-15
+102,Smartphone,Electronics,mumbai,$800,,8000.0,2025/01/16
